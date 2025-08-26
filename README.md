@@ -1,8 +1,6 @@
-![fuji](fuji.png)
-
 # Hey! I'm Oli ^_^
 
-I'm a 2nd year physics student at Durham University. I'm into machine learning, statistical physics, and network protocols.
+I'm a 3rd year physics student at Durham University. I'm into machine learning, statistical physics, and network protocols.
 
 When I’m not studying or coding, I’m usually climbing, snowboarding, or trying to understand something random.
 
