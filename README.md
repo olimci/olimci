@@ -1,3 +1,5 @@
+![fuji](fuji.png)
+
 # Hey! I'm Oli ^_^
 
 I'm a 2nd year physics student at Durham University. I'm into machine learning, statistical physics, and network protocols.
