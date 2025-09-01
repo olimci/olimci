@@ -1,9 +1,9 @@
-# Hey, I'm Oli!
+# hey, i'm oli!
 
-I'm a 3rd year physics student at Durham University. I'm into machine learning, statistical physics, and network protocols.
+i'm a physics undergrad at durham university, with a deep interest in machine learning, statistical mechanics, and using network protocols in unintended ways. 
 
-When I’m not studying or coding, I’m usually climbing, snowboarding, or trying to understand something random.
+i spend a lot of time building random tools, frameworks, or small experiments, sometimes for work, sometimes for uni, and sometimes just for fun.
 
-You can see my website and cv at [oli.mcinnes.cc](https://oli.mcinnes.cc/)
+outside of coding, i'm a bit of a adrenaline junkie:  i spend a lot of my free time mountain biking climbing or snowboarding. i also into photography, and i'm working on getting my japanese to a conversational level.
 
-Feel free to check out any of my repos, or send me an email at [oli@mcinnes.cc](mailto://oli@mcinnes.cc)
+check out my [website](https://oli.mcinnes.cc) or [say hi](mailto:oli@mcinnes.cc).
